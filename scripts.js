@@ -148,5 +148,5 @@ inputElement.addEventListener('input', debouncedHandler);
 resultsElement.addEventListener('click', resultsHandler);
 savesElement.addEventListener('click', savesHandler);
 document.addEventListener('DOMContentLoaded', () => {
-  savesRender();
+	savesRender();
 });
